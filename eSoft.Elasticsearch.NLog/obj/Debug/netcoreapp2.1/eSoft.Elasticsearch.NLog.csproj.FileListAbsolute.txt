@@ -1,0 +1,14 @@
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\bin\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.deps.json
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\bin\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.runtimeconfig.json
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\bin\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.runtimeconfig.dev.json
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\bin\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.dll
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\obj\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\obj\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.RazorAssemblyInfo.cache
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\obj\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.RazorAssemblyInfo.cs
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\obj\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.AssemblyInfoInputs.cache
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\obj\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.AssemblyInfo.cs
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\obj\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.RazorTargetAssemblyInfo.cache
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\bin\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.pdb
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\bin\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.xml
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\obj\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.dll
+D:\WORKSPACE\CSHARP_CORE\eSoft.Elasticsearch.NLog\eSoft.Elasticsearch.NLog\obj\Debug\netcoreapp2.1\eSoft.Elasticsearch.NLog.pdb
